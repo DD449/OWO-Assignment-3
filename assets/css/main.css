@@ -160,7 +160,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
+		border-bottom: double 2px rgba(222, 165, 75, 0.5);
 		text-decoration: none;
 		color: inherit;
 	}
@@ -184,6 +184,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #DEA54B;
+		font-family: "Castellar";
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
